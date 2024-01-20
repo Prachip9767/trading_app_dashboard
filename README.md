@@ -1,7 +1,8 @@
 # Treading App Dashboard✨
 This app to demostrate my skills in bloc by making Treading app dashboard with theme change according to user mobile.
 
-[Green and Cream Modern Sales Marketing Presentation.pdf](https://github.com/Prachip9767/trading_app_dashboard/files/13997780/Green.and.Cream.Modern.Sales.Marketing.Presentation.pdf)
+![Green and Cream Modern Sales Marketing Presentation (1)](https://github.com/Prachip9767/trading_app_dashboard/assets/86509987/99747fb1-666d-445a-977d-c89e17cf3569)
+
 
 
 # Click On Demo✨
